@@ -236,8 +236,6 @@ _airflow/.rat-excludes
 _airflow/.readthedocs.yml
 _airflow/*.rst
 _airflow/*md
-_airflow/breeze*
-_airflow/Breeze2
 _airflow/CHANGELOG.txt
 _airflow/codecov.yml
 _airflow/Docker*
